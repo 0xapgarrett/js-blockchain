@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cron": "^3.5.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "dat-swarm-defaults": "^1.0.3",
+    "discovery-swarm": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "get-port": "^7.1.0",
+    "level": "^9.0.0",
+    "moment": "^2.30.1"
+  }
+}
